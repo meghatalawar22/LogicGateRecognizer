@@ -115,14 +115,6 @@ This project demonstrates practical implementation of:
 * TensorFlow Lite Integration
 ## Team Members
 
-* **Megha Talawar**
-  GitHub: @meghatalawar22
-
-* **Shashank Padavalkar**
-  GitHub: 
-
-* **Teammate Name** 
-  GitHub:
 ## License
 
 This project is developed for educational and research purposes.
