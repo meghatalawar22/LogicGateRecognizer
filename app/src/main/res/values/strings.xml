@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Logic Gate AI</string>
+    <string name="title_app">LOGIC GATE AI</string>
+    <string name="btn_camera">CAMERA</string>
+    <string name="btn_gallery">GALLERY</string>
+    <string name="prediction_none">PREDICTION: NONE</string>
+    <string name="tech_specs">TECHNICAL SPECIFICATIONS</string>
+    <string name="label_layout">Layout</string>
+    <string name="label_schematic">Schematic</string>
+    <string name="label_truthtable">Truth Table</string>
+    <string name="label_verilog">Verilog Code</string>
+</resources>
