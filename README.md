@@ -92,7 +92,7 @@ After successful classification, the application automatically displays:
 
 | Layout                | Schematic                   |
 | --------------------- | --------------------------- |
-| ![Layout](Layout.png) | ![Schematic](Schematic.png) |
+| ![Layout](Layout.jpeg) | ![Schematic](Schematic.jpeg) |
 
 | Truth Table                    | Verilog Code            |
 | ------------------------------ | ----------------------- |
