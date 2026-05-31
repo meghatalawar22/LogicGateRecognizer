@@ -113,13 +113,16 @@ This project demonstrates practical implementation of:
 * Deep Learning Deployment
 * Mobile Application Development
 * TensorFlow Lite Integration
+## Team Members
 
-## Author
+* **Megha Talawar**
+  GitHub: @meghatalawar22
 
-**Megha Talawar**
+* **Shashank Padavalkar**
+  GitHub: 
 
-Electronics and Communication Engineering
-
+* **Teammate Name** 
+  GitHub:
 ## License
 
 This project is developed for educational and research purposes.
