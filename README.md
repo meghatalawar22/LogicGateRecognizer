@@ -96,7 +96,7 @@ After successful classification, the application automatically displays:
 
 | Truth Table                    | Verilog Code            |
 | ------------------------------ | ----------------------- |
-| ![Truth Table](Truthtable.png) | ![Verilog](VerilogCode.png) |
+| ![Truth Table](Truthtable.png) | ![Verilog](Verilogcode.png) |
 
 ### Workflow
 
