@@ -77,7 +77,7 @@ The model is trained to recognize the following logic gates:
 
 | Input Image                 | Prediction Result             |
 | --------------------------- | ----------------------------- |
-| ![NOR Input](nor-input.png) | ![NOR Result](nor-result.png) |
+| ![NAND Input](NAND-input.png) | ![NAND Result](NAND-result.png) |
 
 ### Information Displayed
 
