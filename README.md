@@ -71,6 +71,36 @@ The model is trained to recognize the following logic gates:
 * Schematic Viewer
 * Truth Table Viewer
 * Verilog Code Viewer
+## Application Results
+
+### NOR Gate Detection
+
+| Input Image                 | Prediction Result             |
+| --------------------------- | ----------------------------- |
+| ![NOR Input](nor-input.png) | ![NOR Result](nor-result.png) |
+
+### Information Displayed
+
+After successful classification, the application automatically displays:
+
+* Layout Diagram
+* Circuit Schematic
+* Truth Table
+* Verilog Code
+
+### Example Output
+
+| Layout                | Schematic                   |
+| --------------------- | --------------------------- |
+| ![Layout](layout.png) | ![Schematic](schematic.png) |
+
+| Truth Table                    | Verilog Code            |
+| ------------------------------ | ----------------------- |
+| ![Truth Table](truthtable.png) | ![Verilog](verilog.png) |
+
+### Workflow
+
+Hand Drawn Logic Gate → Camera/Gallery Input → TensorFlow Lite Model → Gate Classification → Display Layout, Schematic, Truth Table and Verilog Code
 
 ## Future Enhancements
 
