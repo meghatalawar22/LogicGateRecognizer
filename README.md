@@ -75,11 +75,13 @@ The model is trained to recognize the following logic gates:
 
 ### NOR Gate Detection
 
-| Input Image                 | Prediction Result             |
-| --------------------------- | ----------------------------- |
-| ![NAND Input](NAND-input.png) | ![NAND Result](NAND-result.png) |
-
-### Information Displayed
+| Input Image                 |
+| --------------------------- | 
+| ![NAND Input](NAND-input.png)|
+| Prediction Result             |
+| --------------------------- | 
+![NAND Result](NAND-result.png) |
+### Information Displayed After Detection
 
 After successful classification, the application automatically displays:
 
@@ -88,15 +90,6 @@ After successful classification, the application automatically displays:
 * Truth Table
 * Verilog Code
 
-### Example Output
-
-| Layout                | Schematic                   |
-| --------------------- | --------------------------- |
-| ![Layout](Layout.jpeg) | ![Schematic](Schematic.jpeg) |
-
-| Truth Table                    | Verilog Code            |
-| ------------------------------ | ----------------------- |
-| ![Truth Table](Truthtable.png) | ![Verilog](Verilogcode.png) |
 
 ### Workflow
 
